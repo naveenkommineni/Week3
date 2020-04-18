@@ -8,6 +8,7 @@ def Distance():
   Y=pow(y,2)
   S=X+Y
   D=sqrt(S)
+  print(D)
   
  Distance()
  
